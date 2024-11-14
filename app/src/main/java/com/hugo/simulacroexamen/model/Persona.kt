@@ -1,4 +1,3 @@
-package com.hugo.simulacroexamen.model;
+package com.hugo.simulacroexamen.model
 
-public class Persona {
-}
+data class Persona(var nombre: String, var edad: Int)
