@@ -29,17 +29,17 @@ class Tarea(nombre: String,
                              val activo: Boolean){
 
         fun mostrarNotificacion() {
-            print("")
+            TODO("Toast sin context?")
 
         }
     }
 
     override fun programarRecordatorio() {
-        TODO("Not yet implemented")
+        TODO("Toast sin context?")
     }
 
     override fun cancelarRecordatorio() {
-        TODO("Not yet implemented")
+        TODO("Toast sin context?")
     }
 
     override fun mostrarDetalle(): String {
