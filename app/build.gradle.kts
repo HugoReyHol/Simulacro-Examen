@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.hugo.simulacroexamen"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.hugo.simulacroexamen"
