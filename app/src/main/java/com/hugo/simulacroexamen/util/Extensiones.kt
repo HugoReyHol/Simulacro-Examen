@@ -22,7 +22,7 @@ fun ArrayList<Actividad>.filtrar(f: (Actividad) -> Boolean) : ArrayList<Activida
 }
 
 
-fun ArrayList<Pago>.x(f: (Pago) -> Boolean) : Double {
+fun ArrayList<Pago>.filtrar(f: (Pago) -> Boolean) : Double {
     var total: Double = 0.0
 
     this.forEach {
